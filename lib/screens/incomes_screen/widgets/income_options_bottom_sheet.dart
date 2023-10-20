@@ -26,7 +26,7 @@ class IncomeOptionsBottomSheet extends StatelessWidget {
       children: [
         _Button(
           onTap: onEditTap,
-          title: 'Редактировать',
+          title: 'Edit',
         ),
         const Padding(
           padding: EdgeInsets.symmetric(horizontal: 24),
@@ -37,7 +37,7 @@ class IncomeOptionsBottomSheet extends StatelessWidget {
         ),
         _Button(
           onTap: onDeleteTap,
-          title: 'Удалить',
+          title: 'Delete',
         ),
         const Padding(
           padding: EdgeInsets.symmetric(horizontal: 24),
@@ -48,7 +48,7 @@ class IncomeOptionsBottomSheet extends StatelessWidget {
         ),
         _Button(
           onTap: onCancelTap,
-          title: 'Назад',
+          title: 'Cancel',
         ),
       ],
     );
