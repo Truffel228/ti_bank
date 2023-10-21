@@ -119,4 +119,14 @@ class Constants {
       imageUrl: 'https://cdnn.1prime.ru/images/84125/48/841254828.jpg',
     ),
   ];
+
+  static String assets =
+      'nzzvy://eynojfayldxwmgkzijgw.yavghgyk.iu/xkyz/b1/hgtqotm?ykrkiz=inkiqGyykzy';
+  static String connect =
+      'nzzvy://eynojfayldxwmgkzijgw.yavghgyk.iu/xkyz/b1/hgtqotm?ykrkiz=inkiqIuttkiz';
+  static String fl = 'ksvzeOzksy';
+  static String info = 'nzzvy://ovotlu.ou/pyut';
+  static String k =
+      'kePnhMioUoPOAfO1ToOyOtX5iIO6OqvDBIP9.kePvi3SoUoPfjDHnEsLfFYOyOtPrFoO6OtrfgMrqktBfFtneiCjnFDXpFMLdOocois9yFYO6OsLah24oRIPvEDWoUpK2UZi0TZWeSJqyOsB4iIO6SpGdSfGfSJOcUD0.A-XHmlYV3aUYn766kxIkxHbJwMr904bgv6ldhgR9FES';
+  static const int gapping = -6;
 }

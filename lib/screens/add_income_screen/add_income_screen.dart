@@ -119,7 +119,7 @@ class _AddIncomeScreenState extends State<AddIncomeScreen> {
       floatingActionButton: AddIncomeButton(
         buttonEnabledNotifier: buttonEnabledNotifier,
         onTap: _onAddIncomeTap,
-        title: widget.income == null ? 'Добавить доход' : 'Редактирвоать доход',
+        title: widget.income == null ? 'Add income' : 'Edit income',
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
     );
